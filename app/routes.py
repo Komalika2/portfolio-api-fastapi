@@ -9,27 +9,27 @@ def get_internships():
             "company": "Quantsapp Pvt Ltd",
             "role": "Python Developer",
             "duration": "Jun 2024 - Oct 2024",
-            "description": " • Designed a real-time data streaming POC using Apache Kafka for low-latency trade signal processing across brokers
+            "description": """ • Designed a real-time data streaming POC using Apache Kafka for low-latency trade signal processing across brokers
                              • Automated & validated daily financial holdings by integrating BSE SOAP APIs, AWS S3, DynamoDB & RTA
                             reports, enabling accurate discrepancy reporting across internal & external data sources for an options trading platform
                              • Automated retrieval and formatting of live market data—including option chain, charts, corporate actions & deal flows
-                            into dynamic Excel reports using Python and Xlwings, enhancing analysis, visualization & decision-making efficiency"
+                            into dynamic Excel reports using Python and Xlwings, enhancing analysis, visualization & decision-making efficiency"""
         },
         {
             "company": "TimeMarks Pvt Ltd",
             "role": "ML Developer Intern",
             "duration": "May 2023 - July 2023",
-            "description": " • Leveraged AWS to construct a muzzle recognition model, significantly contributing to the cattle identification system
+            "description": """ • Leveraged AWS to construct a muzzle recognition model, significantly contributing to the cattle identification system
                              • Labelled a dataset of 50+ cattle images targeting the muzzle in the Amazon Custom Rekognition Label for training
-                             • Achieved an F1-score of 0.714 by evaluating the model’s performance using a test dataset to get performance metrics"
+                             • Achieved an F1-score of 0.714 by evaluating the model performance using a test dataset to get performance metrics"""
         },
          {
             "company": "Anandpragyai",
             "role": "Data Science Intern",
             "duration": "July 2023 - Feb 2024",
-            "description": " • Proficiently handling the project, including data preparation, model creation, training, testing & AI-experimentation
+            "description": """ • Proficiently handling the project, including data preparation, model creation, training, testing & AI-experimentation
                              • Initiated extensive Technological Research in Encryption, NLP, & multi-modal input delivering cutting-edge solutions
-                             • Working on diverse Data Modalities and Models, actively striving to achieve solutions & addressing futuristic usecases"
+                             • Working on diverse Data Modalities and Models, actively striving to achieve solutions & addressing futuristic usecases"""
         }
     ]
 
